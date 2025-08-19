@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "_default_dark.sass" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Alec's Homepage"
 title_separator          : "-"
 name                     : &name "Alec Truax"
