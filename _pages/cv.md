@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full Curriculum Vitae (pdf): [CV](/files/Truax CV.pdf)
+Full Curriculum Vitae (pdf) [CV](/files/Truax CV.pdf)
 
 Education
 ======
