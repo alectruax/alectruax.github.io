@@ -1,5 +1,5 @@
 ---
-title: "Woorking Papers"
+title: "Working Papers"
 permalink: /workingpapers/
 layout: archive
 ---
