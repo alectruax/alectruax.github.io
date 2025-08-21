@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Full Curriculum Vitae (pdf): [CV](/files/Truax CV.pdf)
+
 Education
 ======
 * Ph.D in Economics, University of Colorado - Boulder, Spring 2025 (expected)
