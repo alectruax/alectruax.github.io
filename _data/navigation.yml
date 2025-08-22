@@ -11,11 +11,13 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Working Papers"
-    url: /workingpapers/
-    
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Working Papers"
+        url: /workingpapers/   
+      - title: "Publications"
+        url: /publications/
     
   - title: "Teaching"
     url: /teaching/    
