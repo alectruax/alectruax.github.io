@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: "/teaching/"
-layout: archive
+layout: single
 ---
 
 # University of Colorado - Boulder
