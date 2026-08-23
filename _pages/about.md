@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Colorado Boulder (expected Spring 2027). My research interests are energy, environmental, and natural resource economics, and international trade. My current work examines how intermittent renewable generation affects retail electricity prices, applies text-as-data methods to policy analysis, and studies how transport-mode choice shapes trade outcomes.
+I am a PhD candidate in the Department of Economics at the University of Colorado Boulder. My research interests are concentrated in the economics of renewable energy, the environment and natural resources, and international trade. 
+
+**I am on the job market for the 2026-2027 academic year.**
