@@ -3,19 +3,19 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #E2D6FF;
+$primary-color              : #5B4B8A;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
-$darker-primary-color       : mix(#000, $primary-color, 60%);
-$light-primary-color        : mix(#000, $primary-color, 50%);
+$darker-primary-color       : #3D3161;
+$light-primary-color        : #9C8FC4;
 
-$background                 : #FEFFED;
+$background                 : #F7F3EC;
 $background-light           : mix(#fff, $background, 20%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #eaeaea;
-$link                       : mix($primary-color, $text, 40%);
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
-$footer                     : mix(#000, $background, 30%);
+$background-lighter         : #EDE6DA;
+$text                       : #2A2430;
+$link                       : #5B4B8A;
+$link-dark                  : #3D3161;
+$link-light                 : #7A6BA8;
+$footer                     : #EDE6DA;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
