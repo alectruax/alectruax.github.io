@@ -21,7 +21,7 @@ Full Curriculum Vitae (pdf): [CV](/files/Truax_CV.pdf)
 ## Teaching
 * Instructor of Record: Natural Resource Economics - Spring 2025
 * Instructor of Record: Principles of Microeconomics - Fall 2023, Fall 2024
-
+* Instructor: Principles of Microeconomics _EXCEL Scholars Program, Summer 2026_
 ## Awards
 * Stanford Calderwood Student Teaching Award - 2025, 2026
 * SSCI Fellowship - Fall 2025 
@@ -34,4 +34,4 @@ Full Curriculum Vitae (pdf): [CV](/files/Truax_CV.pdf)
 * _Retail Electricity Prices and Renewable Energy Generation in the United States_
 * 2027 - Transport and Public Utilities Group at ASSA (forthcoming)
 * 2026 - 7th World Congress of Environmental and Resource Economists, AERE@EEA
-* 2025 - Front Range Energy Conference 2025
+* 2025 - Front Range Energy Conference
