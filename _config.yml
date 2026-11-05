@@ -25,9 +25,9 @@ author:
   avatar           : "profile2.png"
   name             : "Alec Truax"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at the University of Colorado Boulder"
+  bio              : "PhD Candidate at the University of Colorado Boulder"
   location         : "Boulder, CO USA"
-  employer         : "University of Colorado - Boulder"
+  employer         : #"University of Colorado - Boulder"
   uri              : # URL
   email            : "alec.truax@colorado.edu" 
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Alec Truax"
+  linkedin         : "alectruax"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
