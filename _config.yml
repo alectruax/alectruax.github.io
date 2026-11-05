@@ -23,7 +23,7 @@ repository               : "alectruax/alectruax.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Alec Truax"
+  name             : "<span style='display:block; text-align:center;'>Alec Truax</span>"
   pronouns         : # example: "she/her"  
   bio              : "<span style='display:block; text-align:center;'><i>From the large understand the small, from the shallow arrive at the deep<br>  &mdash;Miyamoto Musashi</i></span>"
   location         : "Boulder, CO USA"
