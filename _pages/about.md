@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Economics at the University of Colorado Boulder. My research interests are concentrated in the economics of renewable energy, the environment and natural resources, and international trade. 
+Welcome!
 
-**I am on the job market for the 2026-2027 academic year.**
+I am a PhD candidate in the Department of Economics at the University of Colorado Boulder and **I am on the 2026-2027 Academic Job Market**. My research interests include energy economics, environmental and natural resource economics, and international trade.
+
+In my job market paper, I examine the effect of wind and solar energy on retail electricity rates. Other current work estimates transport mode elasticities in international trade and creates a data set of environmental provisions in international trade agreements using large language models.
