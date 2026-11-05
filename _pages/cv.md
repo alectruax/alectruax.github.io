@@ -23,7 +23,7 @@ Full Curriculum Vitae (pdf): [CV](/files/Truax_CV.pdf)
 * Instructor of Record: Principles of Microeconomics - Fall 2023, Fall 2024
 
 ## Awards
-* Stanford Calderwood Student Teaching Award - 2025
+* Stanford Calderwood Student Teaching Award - 2025, 2026
 * SSCI Fellowship - Fall 2025 
 * Reuben A. Zubrow Fellowship in Economics - 2023, 2024
 * Prize in Econometrics - 2023
@@ -31,4 +31,7 @@ Full Curriculum Vitae (pdf): [CV](/files/Truax_CV.pdf)
 * Outstanding Graduating Senior in Economics, Department of Agricultural Economics and Economics - 2021
 
 ## Conference Presentations
-Front Range Energy Conference 2025 - _Retail Electricity Pricing and Renewable Energy Generation in the United States_
+_Retail Electricity Prices and Renewable Energy Generation in the United States_
+2027 - Transport and Public Utilities Group at ASSA (forthcoming)
+2026 - 7th World Congress of Environmental and Resource Economists, AERE@EEA
+2025 - Front Range Energy Conference 2025
