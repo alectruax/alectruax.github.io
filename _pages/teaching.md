@@ -5,12 +5,12 @@ layout: single
 ---
 
 ## University of Colorado - Boulder
-- _Average Instructor Rating - 5.02/6_
+_Average Instructor Rating - 5.02/6_
 
 ### Instructor of Record
 - ECON3535: Natural Resource Economics  _Spring 2025_
 - ECON2010: Principles of Microeconomics  _Fall 2024_, _Fall 2023_
-- ECON2010: Principles of Microeconomics _EXCEL Scholars Program, Summer 2026_
+- ECON2010: Principles of Microeconomics _EXCEL Scholars Program_, _Summer 2026_
 
 <div></div> 
 
