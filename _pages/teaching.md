@@ -5,7 +5,7 @@ layout: single
 ---
 
 ## University of Colorado - Boulder
-_Average Instructor Rating: 5.02/6_
+- _Average Instructor Rating - 5.02/6_
 
 ### Instructor of Record
 - ECON3535: Natural Resource Economics  _Spring 2025_

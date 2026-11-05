@@ -21,7 +21,7 @@ Full Curriculum Vitae (pdf): [CV](/files/Truax_CV.pdf)
 ## Teaching
 * Instructor of Record: Natural Resource Economics - Spring 2025
 * Instructor of Record: Principles of Microeconomics - Fall 2023, Fall 2024
-* Instructor: Principles of Microeconomics _EXCEL Scholars Program, Summer 2026_
+* Instructor: Principles of Microeconomics - _EXCEL Scholars Program, Summer 2026_
 ## Awards
 * Stanford Calderwood Student Teaching Award - 2025, 2026
 * SSCI Fellowship - Fall 2025 
