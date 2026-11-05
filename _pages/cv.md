@@ -31,7 +31,7 @@ Full Curriculum Vitae (pdf): [CV](/files/Truax_CV.pdf)
 * Outstanding Graduating Senior in Economics, Department of Agricultural Economics and Economics - 2021
 
 ## Conference Presentations
-_Retail Electricity Prices and Renewable Energy Generation in the United States_
-2027 - Transport and Public Utilities Group at ASSA (forthcoming)
-2026 - 7th World Congress of Environmental and Resource Economists, AERE@EEA
-2025 - Front Range Energy Conference 2025
+* _Retail Electricity Prices and Renewable Energy Generation in the United States_
+* 2027 - Transport and Public Utilities Group at ASSA (forthcoming)
+* 2026 - 7th World Congress of Environmental and Resource Economists, AERE@EEA
+* 2025 - Front Range Energy Conference 2025
